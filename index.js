@@ -134,7 +134,7 @@ Error generating stack: `+o.message+`
   position: absolute;
   top: 0px;
   right: 15px;
-`;const Fm=[{name:"Website",url:"https://github.com/RaviTejaGattu1"},{name:"GitHub",url:"https://github.com/RaviTejaGattu1"},{name:"Email",url:"mailto:ravitejagattu23@gmail.com"}];function Um(){const e=Ke.div`
+`;const Fm=[{name:"Portfolio",url:"https://github.com/RaviTejaGattu1"},{name:"GitHub",url:"https://github.com/RaviTejaGattu1"},{name:"Email",url:"mailto:ravitejagattu23@gmail.com"},{name:"LinkedIn",url:"https://www.linkedin.com/in/ravitejagattu/"}];function Um(){const e=Ke.div`
     gap: 10px;
     display: grid;
     grid-template-columns: 1fr;
