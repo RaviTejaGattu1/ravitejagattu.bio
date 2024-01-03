@@ -134,7 +134,7 @@ Error generating stack: `+o.message+`
   position: absolute;
   top: 0px;
   right: 15px;
-`;const Fm=[{name:"Newsletter",url:"https://www.substack.com/"},{name:"Website",url:"https://github.com/RaviTejaGattu1"},{name:"YouTube",url:"https://youtube.com/"},{name:"GitHub",url:"https://github.com/RaviTejaGattu1"},{name:"Instagram",url:"https://www.instagram.com/"},{name:"Blog Posts",url:"https://www.hashnode.dev"},{name:"Email",url:"mailto:ravitejagattu23@gmail.com"}];function Um(){const e=Ke.div`
+`;const Fm=[{name:"Website",url:"https://github.com/RaviTejaGattu1"},{name:"GitHub",url:"https://github.com/RaviTejaGattu1"},{name:"Email",url:"mailto:ravitejagattu23@gmail.com"}];function Um(){const e=Ke.div`
     gap: 10px;
     display: grid;
     grid-template-columns: 1fr;
