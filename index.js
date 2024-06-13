@@ -85,7 +85,7 @@ Error generating stack: `+o.message+`
   a, button {
     color: inherit;
   }
-`,Tm="https://img.freepik.com/premium-photo/sticker-boy-coding-computer-anime-s-creative-design-bold-line-cute-kawaii-st_655090-454640.jpg",Rm=Ke.img`
+`,Tm="https://avatars.githubusercontent.com/u/46156268?v=4",Rm=Ke.img`
   width: 130px;
   border-radius: 50%;
 `,Lm=Ke.div`
